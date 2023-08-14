@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dotnetlinux
+  namespace: production
+  labels:
+    app: dotnetlinux
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: dotnetlinux
+  template:
+    metadata:
+      labels:
+        app: dotnetlinux
+    spec:
+      containers:
+        - image: "hackersmooth88/dotnetlinux-prod"
+          imagePullPolicy: Always
+          name: dotnetlinux
+          ports:
+            - containerPort: 80
