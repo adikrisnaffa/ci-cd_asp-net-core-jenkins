@@ -1,4 +1,4 @@
-# ASP.NET Core Docker Production Sample-2
+# ASP.NET Core Docker Production Sample-3
 
 This ASP.NET Core Docker sample demonstrates a best practice pattern for building Docker images for ASP.NET Core apps for production. The sample works with both Linux and Windows containers.
 
