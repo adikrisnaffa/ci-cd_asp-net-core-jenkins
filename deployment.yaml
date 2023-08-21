@@ -16,7 +16,7 @@ spec:
         app: dotnetlinux
     spec:
       containers:
-        - image: "hackersmooth88/dotnetlinux"
+        - image: "hackersmooth88/dotnetlinux-dev"
           imagePullPolicy: Always
           name: dotnetlinux
           ports:
