@@ -6,7 +6,7 @@ metadata:
   labels:
     app: dotnetlinux
 spec:
-  replicas: 10
+  replicas: 3
   selector:
     matchLabels:
       app: dotnetlinux
