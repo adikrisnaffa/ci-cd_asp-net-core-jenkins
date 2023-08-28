@@ -1,0 +1,17 @@
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\bin\Debug\netcoreapp2.0\aspnetapp.deps.json
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\bin\Debug\netcoreapp2.0\aspnetapp.runtimeconfig.json
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\bin\Debug\netcoreapp2.0\aspnetapp.runtimeconfig.dev.json
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\bin\Debug\netcoreapp2.0\aspnetapp.dll
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\bin\Debug\netcoreapp2.0\aspnetapp.pdb
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\obj\Debug\netcoreapp2.0\aspnetapp.csproj.AssemblyReference.cache
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\obj\Debug\netcoreapp2.0\aspnetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\obj\Debug\netcoreapp2.0\aspnetapp.AssemblyInfoInputs.cache
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\obj\Debug\netcoreapp2.0\aspnetapp.AssemblyInfo.cs
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\obj\Debug\netcoreapp2.0\aspnetapp.csproj.CoreCompileInputs.cache
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\obj\Debug\netcoreapp2.0\aspnetapp.dll
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\obj\Debug\netcoreapp2.0\aspnetapp.pdb
+C:\Users\Adikrisna Nugraha\Documents\PERTAMINA\AGUSTUS 2023\28 AGUSTUS 2023\EXAMPLE DOTNET CORE\sample-asp\obj\Debug\netcoreapp2.0\aspnetapp.genruntimeconfig.cache
